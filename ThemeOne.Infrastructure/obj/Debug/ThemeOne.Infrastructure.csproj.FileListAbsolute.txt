@@ -19,3 +19,15 @@ E:\Code\Git\theme\ThemeOne.Infrastructure\obj\Debug\ThemeOne.Infrastructure.cspr
 E:\Code\Git\theme\ThemeOne.Infrastructure\obj\Debug\ThemeOne.Infrastructure.dll
 E:\Code\Git\theme\ThemeOne.Infrastructure\obj\Debug\ThemeOne.Infrastructure.pdb
 E:\Code\Git\theme\ThemeOne.Infrastructure\bin\Debug\SqlSugar.pdb
+I:\Git\themone\ThemeOne.Infrastructure\bin\Debug\ThemeOne.Infrastructure.dll
+I:\Git\themone\ThemeOne.Infrastructure\bin\Debug\ThemeOne.Infrastructure.pdb
+I:\Git\themone\ThemeOne.Infrastructure\bin\Debug\SqlSugar.dll
+I:\Git\themone\ThemeOne.Infrastructure\bin\Debug\SyntacticSugar.dll
+I:\Git\themone\ThemeOne.Infrastructure\bin\Debug\ThemeOne.Entities.dll
+I:\Git\themone\ThemeOne.Infrastructure\bin\Debug\ThemeOne.Entities.pdb
+I:\Git\themone\ThemeOne.Infrastructure\bin\Debug\SqlSugar.pdb
+I:\Git\themone\ThemeOne.Infrastructure\bin\Debug\SyntacticSugar.pdb
+I:\Git\themone\ThemeOne.Infrastructure\bin\Debug\SyntacticSugar.xml
+I:\Git\themone\ThemeOne.Infrastructure\obj\Debug\ThemeOne.Infrastructure.csprojResolveAssemblyReference.cache
+I:\Git\themone\ThemeOne.Infrastructure\obj\Debug\ThemeOne.Infrastructure.dll
+I:\Git\themone\ThemeOne.Infrastructure\obj\Debug\ThemeOne.Infrastructure.pdb
